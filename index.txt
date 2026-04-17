@@ -1,2 +1,8 @@
-"Q1 What is Java?" 
-"Java is a programming language" 
+Q1: What is Java?
+A: Java is a programming language.
+
+Q2: What is JVM?
+A: JVM is Java Virtual Machine.
+
+Q3: What is JDK?
+A: JDK is Java Development Kit.
